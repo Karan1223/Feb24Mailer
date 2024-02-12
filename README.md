@@ -1,3 +1,3 @@
-# CTTodayOct23
+# CTTodayFeb24
 
-CT Today mailer for January 2024.
+CT Today mailer for February 2024.
